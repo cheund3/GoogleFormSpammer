@@ -1,6 +1,6 @@
 "use strict";
 
-import runKyleForm from "./scrapers/Kyle9_23_18";
+import runKyleForm from "./forms/Kyle9_23_18";
 
 const runCount = 150;
 const headless = false;

@@ -1,6 +1,6 @@
 {
-  "name": "zooformspammer",
-  "version": "0.0.1",
+  "name": "googleformspammer",
+  "version": "0.0.2",
   "description": "for all those forms that don't require authentication",
   "main": "index.js",
   "scripts": {
