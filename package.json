@@ -1,0 +1,22 @@
+{
+  "name": "zooformspammer",
+  "version": "0.0.1",
+  "description": "for all those forms that don't require authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --exec babel-node src/index.js"
+  },
+  "author": "Dylan L. Cheung",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "nodemon": "^1.18.4",
+    "regenerator-runtime": "^0.12.1"
+  }
+}
