@@ -9,9 +9,7 @@
   },
   "author": "Dylan L. Cheung",
   "license": "UNLICENSED",
-  "dependencies": {
-    "puppeteer": "^1.8.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
