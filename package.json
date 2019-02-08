@@ -10,6 +10,7 @@
   "author": "Dylan L. Cheung",
   "license": "UNLICENSED",
   "dependencies": {
+    "chance": "^1.0.18",
     "puppeteer": "^1.10.0"
   },
   "devDependencies": {

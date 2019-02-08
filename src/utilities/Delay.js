@@ -1,5 +1,8 @@
 "use strict";
 
-export function delay() {
-    setTimeout(() => {}, 3000);
+export default class Delay {
+    
+    static async delay() {
+        setTimeout(() => {}, 3000);
+    }
 }
